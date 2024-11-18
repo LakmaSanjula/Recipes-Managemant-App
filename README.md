@@ -1,2 +1,2 @@
 # Recipes-Managemant-App
-Next Js
+Next Js   recipe management crud application
